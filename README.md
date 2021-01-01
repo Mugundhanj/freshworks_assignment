@@ -1,8 +1,9 @@
-# freshworks Assignment 
+# Freshworks Assignment 
 This server side project does CRUD operation for products.
 - TO READ ALL PRODUCTS http://127.0.0.1:3000/api/v1/products/
 - TO READ PARTICULAR PRODUCT http://127.0.0.1:3000/api/v1/products/{id}
 - TO UPDATE PRODUCT http://127.0.0.1:3000/api/v1/products/{id}
+
 Input format 
 {
     "id":2,
@@ -13,6 +14,7 @@ Input format
 
 - TO DELETE PRODUCT http://127.0.0.1:3000/api/v1/products/{id}
 - TO CREATE PRODUCT http://127.0.0.1:3000/api/v1/products/
+
 Input format
 {
     "id":3,
